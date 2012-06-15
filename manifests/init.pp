@@ -3,11 +3,11 @@
 # This module manages JBoss Application Server 7.x
 #
 # Parameters:
-# * @version@ = '7.1.1.Final'
-# * @mirror_url@ = 'http://download.jboss.org/jbossas/7.1/jboss-as-7.1.1.Final/'
+# * @version@      = '7.1.1.Final'
+# * @mirror_url@   = 'http://download.jboss.org/jbossas/7.1/jboss-as-7.1.1.Final/'
 # * @bind_address@ = '127.0.0.1'
-# * @http_port@ = 8080
-# * @https_port@ = 8443
+# * @http_port@    = 8080
+# * @https_port@   = 8443
 #
 # Actions:
 #
